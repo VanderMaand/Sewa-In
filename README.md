@@ -1,17 +1,27 @@
-# sewain_flutter
+# SEWA-IN
 
-A new Flutter project.
+**Sistem Elektronik Wadah Administrasi dan Informasi**
 
-## Getting Started
+SEWA-IN merupakan aplikasi mobile yang dirancang untuk membantu pemilik dan pengelola properti dalam mengelola administrasi dan informasi penyewaan secara lebih terstruktur, praktis, dan terpusat.
 
-This project is a starting point for a Flutter application.
+Aplikasi ini menyediakan wadah untuk mengelola berbagai aktivitas pengelolaan properti, seperti data unit, informasi penyewa, kontrak sewa, pembayaran, serta informasi terkait kondisi dan operasional properti.
 
-A few resources to get you started if this is your first Flutter project:
+## Tujuan
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+SEWA-IN dikembangkan untuk mendukung digitalisasi proses administrasi properti yang sebelumnya dapat dilakukan secara manual atau tersebar pada berbagai media, sehingga informasi dapat dikelola dalam satu sistem yang lebih terorganisir.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Fitur Utama
+
+* 🏢 **Manajemen Properti & Unit** — Mengelola data properti dan unit yang tersedia.
+* 👤 **Manajemen Penyewa** — Menyimpan dan mengelola informasi penyewa.
+* 📄 **Manajemen Kontrak** — Mencatat informasi kontrak dan periode penyewaan.
+* 💰 **Pembayaran & Tagihan** — Mengelola informasi tagihan dan pembayaran sewa.
+* 🔧 **Maintenance** — Mencatat dan memantau kebutuhan pemeliharaan properti.
+* 📊 **Dashboard** — Menampilkan ringkasan informasi dan aktivitas properti.
+* 🔔 **Notifikasi** — Membantu memberikan pengingat terkait aktivitas penyewaan dan pembayaran.
+
+## Konsep
+
+SEWA-IN mengintegrasikan berbagai kebutuhan administrasi penyewaan ke dalam satu aplikasi sehingga pemilik atau pengelola dapat memperoleh informasi properti dengan lebih mudah dan melakukan pemantauan secara lebih terstruktur.
+
+> **Manage Properties. Simplify Administration.**
