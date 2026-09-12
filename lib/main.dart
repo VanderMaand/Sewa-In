@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:prover/prover.dart';
+import 'package:provider/provider.dart';
 
 import 'core/supabase_config.dart';
 import 'providers/auth_provider.dart';
@@ -15,6 +15,7 @@ Future<void> main() async {
 
 class RukoAssetApp extends StatelessWidget {
   const RukoAssetApp({super.key});
+  
   @override
   Widget build(BuildContext context) {
     return MultiProvider(
