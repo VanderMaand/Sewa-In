@@ -24,4 +24,10 @@ SEWA-IN dikembangkan untuk mendukung digitalisasi proses administrasi properti y
 
 SEWA-IN mengintegrasikan berbagai kebutuhan administrasi penyewaan ke dalam satu aplikasi sehingga pemilik atau pengelola dapat memperoleh informasi properti dengan lebih mudah dan melakukan pemantauan secara lebih terstruktur.
 
+## Software Requirement System Document
+url: ".."
+
+## UI Design 
+url: ".."
+
 > **Manage Properties. Simplify Administration.**
