@@ -5,7 +5,7 @@ import 'core/supabase_config.dart';
 import 'providers/auth_provider.dart';
 import 'screens/splash_screen.dart';
 
-run|debug
+
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
