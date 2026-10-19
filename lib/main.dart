@@ -9,6 +9,7 @@ run|debug
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  var SupabaseConfig;
   await SupabaseConfig.initialize();
   runApp(const RukoAssetApp());
 }
